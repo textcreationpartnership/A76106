@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a gentleman of worth from Dublin in Ireland, to a friend in London. Wherein is declared a famous victory obtained against the rebels in Ireland, very lately by Colonell Muncke. With other good service done by others in other places; also neer about Dublin, and in the pale.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76106</idno>
+            <idno type="STC">Wing B110</idno>
+            <idno type="STC">Thomason E84_25</idno>
+            <idno type="STC">ESTC R8911</idno>
+            <idno type="EEBO-CITATION">99873432</idno>
+            <idno type="PROQUEST">99873432</idno>
+            <idno type="VID">125903</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125903)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a gentleman of worth from Dublin in Ireland, to a friend in London. Wherein is declared a famous victory obtained against the rebels in Ireland, very lately by Colonell Muncke. With other good service done by others in other places; also neer about Dublin, and in the pale.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 7. 1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J.B. Dublin, 21 Decemb., 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125903:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 23 -->
+            <p>A LETTER FROM A GENTLEMAN of worth FROM DUBLIN IN IRELAND, To a Friend in LONDON.</p>
+            <p>Wherein Is declared a famous Victory obtained againſt the Rebels in <hi>Ireland,</hi> very lately by Colonell <hi>Muncke.</hi>
+            </p>
+            <p>With other good Service done by others in other places; Alſo neer about <hi>Dublin,</hi> and in the PALE.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. B. Jan.</hi> 7. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125903:2"/>
+            <!-- PDF PAGE 24 -->
+            <pb n="3" facs="tcp:125903:2"/>
+            <!-- PDF PAGE 24 -->
+            <head>A LETTER Written From a Gentleman of good worth in DUBLIN, to a Friend in LONDON.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Wrote to you in my Letters the laſt Week, and the Week before, of Colo<g ref="char:EOLhyphen"/>nell <hi>Munck</hi>'s going abroad with 600 Muſ<g ref="char:EOLhyphen"/>kettiers, and 300 Horſe; but as I hear now, there were but 500 Muskettiers, and 200 Horſe, without any Pike-men: The laſt Saturday at night, the Horſe came home, and the laſt Sunday the Foot; They went into the Queens-County, and into the County of <hi>Catherlough,</hi> and have re<g ref="char:EOLhyphen"/>lieved
+<pb n="4" facs="tcp:125903:3"/>
+               <!-- PDF PAGE 25 -->
+the Caſtles of <hi>Athy, Marriburrow, Cather<g ref="char:EOLhyphen"/>lough, Munſter-Even,</hi> and <hi>Ballinekill.</hi> The Rebells at <hi>Kilkenny</hi> having notice of their coming abroad (for there is nothing reſolved on, or done here, but they have ſpeedy intelligence of it) Colonell <hi>Preſton,</hi> who is my Lord Viſcount <hi>Gormanſtons</hi> Un<g ref="char:EOLhyphen"/>kle, and made Generall of <hi>Leinſter,</hi> choſe out 700 of his beſt Muskettiers, 500 Pike-men and about 300 Horſe, all very compleatly armed: and as our men came from <hi>Ballinekill</hi> towards <hi>Athy,</hi> they followed them, <hi>Preſton</hi> himſelf being preſent with them; and Colonell <hi>Cullen,</hi> and Colonell <hi>Plunket,</hi> chief Commanders too in the Rebells Army, came alſo along with <hi>Preſton</hi> as Voluntiers, being reſolved to cut off all our men, without ſparing ſo much as one of them: When our Souldi<g ref="char:EOLhyphen"/>ers eſpyed them, following them, they ſtill marched forwards towards <hi>Athy</hi> as faſt as they could, ſeek<g ref="char:EOLhyphen"/>ing out in their way a fit place wherein to fight with the enemy; but the Rebells followed ſo faſt after them, that when our men were a little be<g ref="char:EOLhyphen"/>yond <hi>Tymahoe,</hi> towards <hi>Athy,</hi> a Caſtle wherein the Rebells had a Garriſon, our men could go no further, but made a ſtand: The Rebells ſhot abun<g ref="char:EOLhyphen"/>dantly at them, but it happened to be out of Mus<g ref="char:EOLhyphen"/>ket ſhot; for the Bullets were after found lying very thick, and in abundance upon the ground, But when they came within ſhot, our men did ſo well behave themſelves, and gave fire ſo thick upon them, that many of them fell, and the reſt
+<pb n="5" facs="tcp:125903:3"/>
+               <!-- PDF PAGE 25 -->
+preſently betook themſelves to their heels; the moſt of them fled into the Caſtle of <hi>Tymahoe,</hi> into which <hi>Preſton</hi> himſelf made as much haſte as the reſt: but our men could not then purſue them, by reaſon they muſt then have gone cloſe by that Caſtle; and neer to it on the other ſide was a Bog, ſo that they muſt have gone half a mile about; which was the way they came, to ſhun that Caſtle: and having ſo far to march after as to <hi>Athy,</hi> which was five or ſix miles diſtant, there being no other place to lodge in, they contented themſelves with the Victory, and beating them out of the Field, and ſo marched away. This Caſtle of <hi>Ballinekill</hi> is but a little Garriſon, and yet lying within ſeven or eight miles of <hi>Kilkenny,</hi> the chief place of their Randevouz, doth vex the Rebells extremely that they cannot take it in. There was not one of our men killed in this Fight, and but one loſt in all the Journey; ſome two or three wounded and ſlightly hurt: There were about 100 of the Enemy ſlain, and very many of them were wounded and hurt. Our men took up two or three hundred of their Pikes which they threw away in the Fight, but few Muskets, for thoſe they took care to gather up, and carry away. Our men took in that Fight one Cap<g ref="char:EOLhyphen"/>tain <hi>Criſpe,</hi> an Engliſh Papiſt, who dwelt about <hi>Ril<g ref="char:EOLhyphen"/>kenny,</hi> and was of great eſteem amongſt them; he was very forward in the Fight, and beat and cudgelled his men to go on, but it did not ſerve his turn; he is now in the Caſtle of <hi>Dublin.</hi> This Fight
+<pb n="6" facs="tcp:125903:4"/>
+               <!-- PDF PAGE 26 -->
+was moſt performed by our Foot, the Horſe on either ſide not coming together to charge, the place where they fought conſiſting much of Inclo<g ref="char:EOLhyphen"/>ſures, where Horſe could not well come to ſerve. This buſineſſe hath gladded us much, and hath diſ<g ref="char:EOLhyphen"/>comforted them, That ſuch a handfull of men ſhould be able to go almoſt 50 miles up into the Land, to and fro, from Garriſon to Garriſon, in de<g ref="char:EOLhyphen"/>ſpite of the enemy, and ſo cloſe to the Body of their Army: And this was the firſt exploit of <hi>Pre<g ref="char:EOLhyphen"/>ſtons,</hi> ſince he was made their Generall; I hope God will never give him better ſucceſſe. This is the trueſt Relation I can hear of this Buſineſſe, which I have been diligent to enquire of from thoſe who were in the action, and preſent in the whole Journey: God make us truely thankfull. Sir <hi>Richard Grenvill</hi> out of <hi>Trim,</hi> laſt Friday at night, ſallyed out upon the Rebells at <hi>Kilcock,</hi> and upon Saturday morning came upon them there, where they kept a very plentifull Market, and took all their Corn and Victualls that was there, ſome ſay, two hundred Cowes, ſome more, and by the way took <hi>Owgan</hi> of <hi>Racoffy</hi> his wife and children; his wife is ſiſter to the Lord Viſcount <hi>Gormanſton.</hi> Our men burnt five thouſand pounds worth of Corn in their Journey to <hi>Athy,</hi> of the enemies. Sir <hi>Arthur Loſ<g ref="char:EOLhyphen"/>tus</hi> went lately towards <hi>Wickloe,</hi> and of that ſide <hi>Dublin,</hi> and burnt a great many Towns ſome miles together, and killed ſome Rebels, and brought home much Booty: And Captain <hi>Charles Bolton,</hi> my Lord
+<pb n="7" facs="tcp:125903:4"/>
+               <!-- PDF PAGE 26 -->
+Chancellors ſon, with 120 Muskettiers, went to<g ref="char:EOLhyphen"/>wards <hi>Field-Towne,</hi> where the enemy lay, whom they durſt not to encounter with, but fled: he burnt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Town, and ſeven miles about, Corn and all, and came home. Captain <hi>Phernſtie,</hi> in his paſſage from the Garriſon of <hi>Trim,</hi> burnt the enemy, as is ſaid, 18 Towns more; ſo that the Lords of the <hi>Pale</hi> have no ſhelter now about us. If we had but ſome Pro<g ref="char:EOLhyphen"/>viſions and Succours ſent us now in the Spring, we would hope to do very much in the Cauſe: I pray put to your helping hand, to ſolicite the Parliament for us.</p>
+            <closer>
+               <dateline>DUBLIN,
+<date>21 Decemb. 1642.</date>
+               </dateline>
+               <signed>Your loving friend, J. B.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
